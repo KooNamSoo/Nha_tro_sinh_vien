@@ -1,0 +1,113 @@
+{
+    "loaihinhnhatro":[
+        {
+            "id":1,
+            "ten":"Nhà trọ khép kín",
+            "images":[
+                {
+                    "url":"https://i.ytimg.com/vi/dx_bZRLSzqY/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "ten":"Nhà trọ không khép kín ",
+            "images":[
+                {
+                    "url":"https://cdn.chotot.com/GVZBeSXt3ahHJ3MbmfVdstuKzkOuDcPROMeZ8DzNQ5E/preset:view/plain/5622591248.jpg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "ten":"Nhà trọ ở ghép cùng chủ",
+            "images":[
+                {
+                    "url":"https://cdn.chotot.com/GVZBeSXt3ahHJ3MbmfVdstuKzkOuDcPROMeZ8DzNQ5E/preset:view/plain/5622591248.jpg"
+                }
+            ]
+        }
+    ],
+    "cacnhatro":[
+        {
+            "id":1,
+            "tenphongtro":"Phòng trọ mới xây khép kín + gác xép",
+            "price":"800.000 VND",
+            "images":[
+                {
+                    "url":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2019/10/10/picture1568092132791_1570676519.jpg"
+                }
+            ],
+            "category":1
+        },
+        {
+            "id":2,
+            "tenphongtro":"Homestay trọn gói tại Trung Hòa Nhân",
+            "price":"1000.000 VND",
+            "images":[
+                {
+                    "url":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2018/09/13/1_1536812244.jpg"
+                }
+            ],
+            "category":1
+        }
+    ],
+    "thongtinnhatro":[
+        {
+            "id":1,
+            "giathue":"800.000 VND",
+            "dien":"3500đ/số",
+            "nuoc":"75,000đ/người",
+            "internet":"75,000đ/tháng",
+            "vesinh":"20,000đ/tháng",
+            "dientich":"20 mét vuông",
+            "lienhe":"0947.888.904(gặp Thái Trinh)",
+            "category":1
+        }
+    ],
+    "tintuc":[
+        {
+            "id":1,
+            "tieude":"Khu Đông Sài Gòn thu hút đầu tư bất động sản",
+            "images":[
+                {
+                    "url":"https://i-kinhdoanh.vnecdn.net/2019/10/09/hinh-pr1-1570525802-6025-1570593401_180x108.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "tieude":"Tiềm năng đầu tư shophouse tại dự án Royal Market Town",
+            "images":[
+                {
+                    "url":"https://i-kinhdoanh.vnecdn.net/2019/10/09/8-10-201910-693880033-w500-157-6730-6884-1570591751_180x108.jpeg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "tieude":"Cơ hội sinh lời từ bất động sản nghỉ dưỡng phía Nam",
+            "images":[
+                {
+                    "url":"https://i-kinhdoanh.vnecdn.net/2019/10/09/951281979-w500-7962-1570549585-2638-8311-1570592535_180x108.png"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "tieude":"Tiềm năng phát triển nhà phố tại Cần Thơ",
+            "images":[
+                {
+                    "url":"https://i-kinhdoanh.vnecdn.net/2019/10/08/1-1570534965-2423-1570534993_180x108.jpg"
+                }
+            ]
+        }
+    ],
+    "noidungtin":[
+        {
+            "id":1,
+            "noidung":"Khu Đông Sài Gòn phát triển loạt công trình hạ tầng quy mô lớn, góp phần thu hút đầu tư từ doanh nghiệp bất động sản trong, ngoài nước. Đô thị sáng tạo khu Đông đang dần hình thành Khu Đông Sài Gòn hiện dẫn đầu về các công trình giao thông trọng điểm với hàng loạt hạng mục quy mô triển khai thực hiện, như mở rộng Xa lộ Hà Nội, cao tốc TP HCM - Long Thành - Dầu Giây, đường Vành đai 1, 2, 3, cầu Cát Lái, hầm vượt ba tầng ở nút giao Mỹ Thủy, dự án cầu Thủ Thiêm 1, 2, 3, 4... Hạ tầng phát triển đồng bộ và tập trung là động lực giúp thị trường bất động sản nơi đây thu hút sự quan tâm mạnh mẽ của giới đầu tư chuyên nghiệp. Theo đánh giá của các chuyên gia bất động sản, lực đẩy vĩ mô giúp thị trường khu Đông tăng tốc mạnh đến từ định hướng xây dựng đô thị sáng tạo bắt kịp xu hướng thế giới.",
+            "category":1
+        }
+    ]
+}

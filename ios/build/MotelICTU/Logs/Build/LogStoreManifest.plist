@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>444C9602-E77F-46C4-A46D-C39942D3F8B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>444C9602-E77F-46C4-A46D-C39942D3F8B0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MotelICTU project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MotelICTU</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MotelICTU with scheme MotelICTU and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592400811.78136098</real>
+			<key>timeStoppedRecording</key>
+			<real>592400824.34230399</real>
+			<key>title</key>
+			<string>Building workspace MotelICTU with scheme MotelICTU and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>444C9602-E77F-46C4-A46D-C39942D3F8B0</string>
+		</dict>
+		<key>AC498C6E-091C-4707-AE98-5841FEDE4839</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC498C6E-091C-4707-AE98-5841FEDE4839.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MotelICTU project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MotelICTU</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MotelICTU with scheme MotelICTU and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592532219.09508204</real>
+			<key>timeStoppedRecording</key>
+			<real>592532231.93737495</real>
+			<key>title</key>
+			<string>Building workspace MotelICTU with scheme MotelICTU and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AC498C6E-091C-4707-AE98-5841FEDE4839</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
